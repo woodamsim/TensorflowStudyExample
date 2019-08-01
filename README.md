@@ -1,5 +1,7 @@
 # Tensorflow Study Example
 
+* Woodam Sim
+
 # Version Info
 * Python3.6
 * Tensorflow1.10
